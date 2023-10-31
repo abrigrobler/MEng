@@ -6,3 +6,6 @@ This repository contains the Jupyter notebooks, python scripts, data, and diagra
 
 The final, summarised code for all of my experiments can by found in the Jupyter Notebook titled *Experiments Summarised.ipynb*
 
+## Results
+
+The resulting plots can also be found in the `figures_in_thesis` folder
